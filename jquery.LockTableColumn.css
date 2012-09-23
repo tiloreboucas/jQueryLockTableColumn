@@ -1,0 +1,15 @@
+section { padding: 0 25px; }
+
+.DynamicTable_container { margin-top: 25px; }
+
+.DynamicTable_container .dynamictablecolumn tr {}
+.DynamicTable_container .dynamictablecolumn tr th { background-color: #ccc; padding: 10px; }
+.DynamicTable_container .dynamictablecolumn tr th span {}
+.DynamicTable_container .dynamictablecolumn tr td { background-color: #eee; padding: 10px; }
+.DynamicTable_container .dynamictablecolumn tr td span {}
+
+.DynamicTable_container .DynamicTable_index { float: left; }
+.DynamicTable_container .DynamicTable_index tr th { background-color: #898989; padding: 10px; }
+.DynamicTable_container .DynamicTable_index tr td { background-color: #898989; padding: 10px; }
+
+.DynamicTable_container .DynamicTable_mask { float: left; width: 500px; overflow: hidden; }
